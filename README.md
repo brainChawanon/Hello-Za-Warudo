@@ -1,2 +1,3 @@
 # Hello-Za-Warudo
-First
+This is just a normal program that I dont know how to use it
+
